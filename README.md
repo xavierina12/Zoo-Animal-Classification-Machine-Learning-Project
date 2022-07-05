@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/uciml/zoo-animal-classification
 There are 16 Variables that describes the features of the Animals.
 
 
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Dataset%20Attributes.png)
+![](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Images/Dataset%20Attributes.png)
 
 ## Tasks
 ### Task 1: Data Exploration
@@ -32,7 +32,7 @@ There are 16 Variables that describes the features of the Animals.
 *  **Predict the values** model.predict(x_test)
 * Scores for the models selected for Zoo Animal Dataset
 
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/Visuals.png)
+![](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Images/Visuals.png)
 
 ### Task 3: Model Selection
 * Select the model that has the best accuracy and less time.
@@ -42,7 +42,7 @@ There are 16 Variables that describes the features of the Animals.
 * Plot the Confusion Matrix
 * Plot Decision Tree 
 
-![](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Images/decision%20tree.png)
+![](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Images/decision%20tree.png)
 
 ## Conclusion
 **MODEL SELECTED:** DecisionTreeClassifier()
@@ -64,8 +64,8 @@ Identifying buyers for products, finding strategy that can maximize the profit, 
 The Best Machine learning models for the Zoo dataset are **DecisionTreeClassifier, RandomForestClassifier, SVC and GradientBoostingClassifier.**
 
 ##
-### [View Code](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Zoo%20Animal%20Classification.ipynb)
-### [View Report](https://github.com/xavierina12/Data-Analytics/blob/main/Projects/2.%20Machine%20Learning%20Project/Zoo%20Animal%20Classification%20(Python)/Report.pdf) 
+### [View Code]()
+### [View Report](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Report.pdf) 
 
 
 
