@@ -65,7 +65,7 @@ Identifying buyers for products, finding strategy that can maximize the profit, 
 The Best Machine learning models for the Zoo dataset are **DecisionTreeClassifier, RandomForestClassifier, SVC and GradientBoostingClassifier.**
 
 ##
-### [View Code]()
+### [View Code](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Zoo%20Animal%20Classification.ipynb)
 ### [View Report](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Report.pdf) 
 
 
