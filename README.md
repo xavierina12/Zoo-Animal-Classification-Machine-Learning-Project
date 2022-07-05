@@ -1,6 +1,6 @@
 <h1 align="center"> Zoo Animal Classification </h1>
 
-#### Tools: Python 3.10.2, Jupyter Notebook
+#### Tools: Python 3.10.2, Jupyter Notebook, Tableau
 ## Problem Statement : 
 Predict the Classification of the Animals, Based upon the Variables.
 ## Dataset Reference : 
@@ -66,7 +66,11 @@ The Best Machine learning models for the Zoo dataset are **DecisionTreeClassifie
 
 ##
 ### [View Code](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Zoo%20Animal%20Classification.ipynb)
-### [View Report](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Report.pdf) 
+### [View Report](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Report.pdf)
+### [View Tableau Dashboard](https://public.tableau.com/app/profile/xavierina/viz/TableauDashboard-ZooAnimalClassification/ZooAnimalClassification)
+
+## Tableau Dashboard 
+
 
 
 
