@@ -70,6 +70,8 @@ The Best Machine learning models for the Zoo dataset are **DecisionTreeClassifie
 ### [View Tableau Dashboard](https://public.tableau.com/app/profile/xavierina/viz/TableauDashboard-ZooAnimalClassification/ZooAnimalClassification)
 
 <h1 align="center"> Tableau Dashboard </h1>
+
+
 ![](https://github.com/xavierina12/Zoo-Animal-Classification-Machine-Learning-Project/blob/main/Images/Dashboard.PNG)
 
 
